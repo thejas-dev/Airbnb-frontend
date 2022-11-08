@@ -57,7 +57,7 @@ const Index = ({exploreData,cardsData}) => {
 export default Index;
 
 
-export async function getServerSideProps() {  
+export async function getStaticProps() {  
   const exploreData = 
   [
     {"img":"https://links.papareact.com/5j2","location":"London","distance":"45-minute drive"},
