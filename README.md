@@ -1,3 +1,4 @@
 # Airbnb UI
 
-[airbnb]('https://airbnb-model.vercel.app')
+<a href="https://airbnb-model.vercel.app" target="_blank">Link</a>
+
